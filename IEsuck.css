@@ -18,7 +18,7 @@
 	height: 72px;
 	margin: 10px;
 	padding-right: 60px;
-	width: 260px
+	width: 265px
 }
 
 a {
@@ -31,7 +31,7 @@ a {
 }
 
 #noie>div>div:nth-child(3)>div>a:nth-child(1) img {
-	margin: 0 5px 0 20px;
+	margin: 0 15px 0 10px;
 	position: relative;
 	top: 10px;
 	width: 50px
@@ -62,7 +62,7 @@ a {
 }
 
 #noie>div>div:nth-child(3) {
-	padding-bottom: 60px
+	padding: 30px 0;
 }
 
 #noie6 {
@@ -95,8 +95,8 @@ a {
 }
 
 #noie>div>div:nth-child(1) {
-	font-size: 60px;
-	margin-bottom: 20px
+	font-size: 70px;
+	margin: 35px 0;
 }
 
 #noie>div>div:nth-child(2) {
@@ -105,6 +105,8 @@ a {
 
 #noie>div>div:nth-child(2)>div {
 	display: inline-block;
-	max-width: 550px;
-	padding: 0 20px 20px
+	max-width: 515px;
+	padding: 20px;
+	background: #f8f8f8;
+	border-radius: 20px;
 }
