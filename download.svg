@@ -1,0 +1,15 @@
+<svg  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" >
+<style>
+line,
+polyline{
+	stroke:#000;
+	fill:none;
+	stroke-width:64;
+	stroke-linecap:round;
+	stroke-miterlimit:10;
+	stroke-linejoin:round;}
+</style>
+<line x1="400" y1="100" x2="400" y2="600"/>
+<line x1="600" y1="700" x2="200" y2="700"/>
+<polyline points="600,400 400,600 200,400"/>
+</svg>

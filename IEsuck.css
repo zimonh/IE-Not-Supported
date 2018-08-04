@@ -1,0 +1,110 @@
+#noie>div>div:nth-child(2),
+#noie>div>div:nth-child(3),
+#noie>div>div:nth-child(3)>div>a:nth-child(1),
+#noie>div>div:nth-child(3)>div>a:nth-child(1) div,
+#noie>div>div:nth-child(3)>div>a:nth-child(2) {
+	display: inline-block
+}
+
+#noie,
+#noie>div>div:nth-child(3)>div>a:nth-child(1) {
+	font-family: helvetica;
+	text-align: center
+}
+
+#noie>div>div:nth-child(3)>div>a:nth-child(1) {
+	border-radius: 20px;
+	font-size: 44px;
+	height: 72px;
+	margin: 10px;
+	padding-right: 60px;
+	width: 260px
+}
+
+a {
+	color: #000;
+	margin-left: 90px
+}
+
+#noie>div>div:nth-child(3)>div>a:nth-child(1) div {
+	width: 160px
+}
+
+#noie>div>div:nth-child(3)>div>a:nth-child(1) img {
+	margin: 0 5px 0 20px;
+	position: relative;
+	top: 10px;
+	width: 50px
+}
+
+#noie>div>div:nth-child(3)>div>a:nth-child(2) {
+	position: absolute;
+	margin-left: -80px;
+	margin-top: 15px;
+	margin-bottom: -10px;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	padding: 4px 6px 8px
+}
+
+#noie>div>div:nth-child(1),
+#noie>div>div:nth-child(3)>div {
+	display: block
+}
+
+#noie>div>div:nth-child(3)>div>a:nth-child(1),
+#noie>div>div:nth-child(3)>div>a:nth-child(2) {
+	-webkit-transition: all .4s ease-in-out;
+	-moz-transition: all .4s ease-in-out;
+	-o-transition: all .4s ease-in-out;
+	transition: all .4s ease-in-out
+}
+
+#noie>div>div:nth-child(3) {
+	padding-bottom: 60px
+}
+
+#noie6 {
+	padding-left: 10px;
+	padding-right: 10px
+}
+
+.noie:hover,
+#noie>div>div:nth-child(3)>div>a:nth-child(1):hover {
+	background-color: #eee
+}
+
+#noie>div {
+	display: table-cell;
+	height: 100vh;
+	vertical-align: middle;
+	width: 100vw;
+	text-align: center
+}
+
+#noie {
+	background-color: white;
+	font-size: 33px;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	width: 100%
+}
+
+#noie>div>div:nth-child(1) {
+	font-size: 60px;
+	margin-bottom: 20px
+}
+
+#noie>div>div:nth-child(2) {
+	display: block
+}
+
+#noie>div>div:nth-child(2)>div {
+	display: inline-block;
+	max-width: 550px;
+	padding: 0 20px 20px
+}
