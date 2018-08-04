@@ -1,3 +1,5 @@
+/* by: ZIMONH src: https://github.com/zimonh/ComicsReader
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/ */
 var all = '';
 var supported = [
 	{ img: 'firefox.svg', 	name: 'Firefox', 	open: '', 				link: 'https://www.mozilla.org/en-US/firefox/new/' },
