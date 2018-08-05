@@ -1,4 +1,4 @@
-/* by: ZIMONH src: https://github.com/zimonh/ComicsReader
+/* by: ZIMONH src: https://github.com/zimonh/IE-Not-Supported
 License: https://creativecommons.org/licenses/by-nc-sa/4.0/ */
 var all = '';
 var supported = [
